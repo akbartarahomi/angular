@@ -1,4 +1,4 @@
-Naming Conventions in Angular2
+Naming Conventions in Angular22
 ---
 
 In general Angular2 should follow TypeScript naming conventions.
